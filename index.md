@@ -22,7 +22,7 @@ My research experience spans machine learning theory, online control and optimiz
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 - Developed a spectral credit assignment method for Group-Relative Policy Optimization (GRPO) that redistributes sequence-level rewards across token positions, capturing the temporal structure of language generation to reduce gradient variance in long-horizon RLHF without requiring additional critics or token-level rewards.
 
-**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CSCW 2026)
+**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course**
 [[arXiv]](https://arxiv.org/abs/2602.23635) \
 *Romina Mahinpei, Sofiia Druchyna, Manoel Horta Ribeiro* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
